@@ -1,6 +1,6 @@
 {
-  "name": "gulp-starter-kit",
-  "version": "1.2.0",
+  "name": "ice-cream",
+  "version": "1.2.1",
   "description": "",
   "main": "index.js",
   "scripts": {
